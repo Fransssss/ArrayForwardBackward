@@ -10,8 +10,6 @@ Learning Goals
 Sample Output
 ---------------------------------------------------------------------------------------
 
-C:\Users\XaveF\CLionProjects\ArrayForwardBackward\cmake-build-debug\ArrayForwardBackward.exe
-
 Input the size of array you would like to set :
 5
 
