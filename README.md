@@ -26,7 +26,7 @@ Choose display style to output elements in array :
 Display style (the number) :1
 
 ===============================================================
-
+// option 1
 The element in array in 'Forward-mode' are :
 1) 11
 2) 12
@@ -41,5 +41,17 @@ The element in array in 'Backward-mode' are :
 3) 13
 4) 12
 5) 11
+
+
+// Option 2
+Display style (the number) :2
+
+===============================================================
+
+The element in array in 'Forward-mode' are :
+[ 11 12 13 14 15 ]
+
+The element in array in 'Backward-mode' are :
+[ 15 14 13 12 11 ]
 
 Process finished with exit code 0
