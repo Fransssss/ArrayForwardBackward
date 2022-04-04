@@ -26,7 +26,7 @@ Choose display style to output elements in array :
 Display style (the number) :1
 
 ===============================================================
-// option 1
+
 The element in array in 'Forward-mode' are :
 1) 11
 2) 12
@@ -43,7 +43,6 @@ The element in array in 'Backward-mode' are :
 5) 11
 
 
-// Option 2
 Display style (the number) :2
 
 ===============================================================
