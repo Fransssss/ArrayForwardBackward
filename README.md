@@ -1,5 +1,5 @@
 # ArrayForwardBackward
-Let user determine size of array and fill in the element the output the elements
+Deal with basic array
 
 
 Learning Goals
